@@ -1,5 +1,5 @@
 ## 👽Who I am
-NJUPT level 2025
+NJUPTer level 2025
 编程菜狗
 ## 🛠️What I can
 <ul>
@@ -9,10 +9,12 @@ NJUPT level 2025
   <li>HTML,CSS</li>
   <li>JavaScript</li>
 </ul>
+
 ## 🐾What I am trying
 <ul>
   <li>MySQL</li>
 </ul>
+
 ## 🥰Contact me
 <ul>
   <li>email:dougunduzi@outlook.com</li>
