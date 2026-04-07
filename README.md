@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**dougunduzii/dougunduzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👽 Who I am
+NJUPT level 2025
+编程菜狗
+## 🛠️ What I can
+<ul>
+  <li>JavaSE</li>
+  <li>Python(pygame,pynput)</li>
+  <li>C/C++(a little)</li>
+  <li>HTML,CSS</li>
+  <li>JavaScript</li>
+</ul>
+## 🐾 What I am trying
+<ul>
+  <li>MySQL</li>
+</ul>
+## Contact me
+<ul>
+  <li>email:dougunduzi@outlook.com</li>
+  <li>QQ:2691296657</li>
+</ul>
