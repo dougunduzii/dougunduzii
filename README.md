@@ -1,3 +1,5 @@
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dougunduzii.dougunduzii" alt="visitor badge"/>
+
 ## 👽Who I am
 NJUPTer level 2025
 编程菜狗
