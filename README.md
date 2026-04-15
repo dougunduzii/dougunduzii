@@ -1,5 +1,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dougunduzii.dougunduzii" alt="visitor badge"/>
- <img align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=dougunduzii&show_icons=true&hide_title=true&theme=synthwave" />
+ <img align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=dougunduzii&show_icons=true&hide_title=true&theme=merko" />
 ## 👽Who I am
 NJUPTer level 2025
 编程菜狗
