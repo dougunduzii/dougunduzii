@@ -4,7 +4,7 @@
   
  <img align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=dougunduzii&show_icons=true&hide_title=true&theme=merko" />
 
- <detail>
+ <details>
    
  <!--START_SECTION:waka-->
 
@@ -18,7 +18,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-</detail>
+</details>
 
 ## 👽Who I am
 NJUPTer level 2025
