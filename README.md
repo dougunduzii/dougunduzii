@@ -2,6 +2,13 @@
  <img align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=dougunduzii&show_icons=true&hide_title=true&theme=merko" />
  <!--START_SECTION:waka-->
 
+```txt
+From: 23 March 2026 - To: 22 April 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
