@@ -7,15 +7,65 @@
  <details>
    
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20mins-blue?style=flat)
 
-```txt
-From: 23 March 2026 - To: 22 April 2026
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-Total Time: 0 secs
+**🐱 My GitHub Data** 
 
-No activity tracked
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16 commits          ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+🌆 Daytime                26 commits          █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌃 Evening                19 commits          ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+🌙 Night                  9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Thursday                 35 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Saturday                 21 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/04/2026 10:29:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
