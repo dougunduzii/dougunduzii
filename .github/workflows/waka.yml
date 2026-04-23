@@ -1,21 +1,20 @@
-# see https://github.com/athul/waka-readme
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # 每天 UTC 0点（北京时间8点）自动更新
+  workflow_dispatch:     # 允许手动触发
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.wakatime_api_key }}
-          TIME_RANGE: last_30_days
-          SHOW_TOTAL: true
-          SHOW_TITLE: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TOTAL_CODE_TIME: true  # ✅ 显示历史总时长
+          SHOW_PROJECTS: false
+          SHOW_EDITORS: false
+          SHOW_OS: false
+          SHOW_TIMEZONE: false
