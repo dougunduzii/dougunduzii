@@ -16,6 +16,6 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"  # 显示总编码时长
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_OS: "False"
