@@ -1,6 +1,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dougunduzii.dougunduzii" alt="visitor badge"/>
   
-  ![](https://img.shields.io/badge/wakatime-45%20mins-blue?style=flat)
+[![wakatime](https://wakatime.com/badge/user/d0575786-8e2a-41e6-9628-4e7af5f22442.svg)](https://wakatime.com/@d0575786-8e2a-41e6-9628-4e7af5f22442)
   
  <img align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=dougunduzii&show_icons=true&hide_title=true&theme=merko" />
 
