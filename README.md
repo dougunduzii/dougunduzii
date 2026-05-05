@@ -7,7 +7,7 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,11 +48,11 @@ Sunday                   3 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
-Markdown                 2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Other                    1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Vue                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TypeScript               2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
+Markdown                 1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Other                    1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Vue                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -69,7 +69,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 03:55:52 UTC
+ Last Updated on 05/05/2026 03:36:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
