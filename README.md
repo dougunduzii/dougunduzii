@@ -74,6 +74,8 @@ Python                   1 repo              ███████████�
 
 </details>
 
+![snake](https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg)
+
 ## 👽Who I am
 NJUPTer level 2025
 编程菜狗
