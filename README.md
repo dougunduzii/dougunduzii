@@ -7,7 +7,7 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -15,32 +15,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2026
+> 🏆 107 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25 commits          ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-🌆 Daytime                29 commits          ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-🌃 Evening                42 commits          ██████████░░░░░░░░░░░░░░░   39.62 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+🌞 Morning                25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌆 Daytime                30 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                44 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Thursday                 50 commits          ████████████░░░░░░░░░░░░░   47.17 % 
-Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Saturday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Tuesday                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 50 commits          ███████████░░░░░░░░░░░░░░   45.45 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 29 commits          ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
@@ -48,18 +48,18 @@ Sunday                   3 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.98 % 
-Other                    2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Java                     2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Python                   12 hrs 9 mins       ███████████████░░░░░░░░░░   59.37 % 
+Other                    2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Java                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in Python** 
 
 ```text
-Vue                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   3 repos             ███████████████████░░░░░░   75.00 % 
+Vue                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
@@ -69,7 +69,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 03:43:18 UTC
+ Last Updated on 10/05/2026 04:02:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
