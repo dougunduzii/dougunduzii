@@ -7,7 +7,7 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -15,7 +15,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2026
+> 🏆 108 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,6 +23,38 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌆 Daytime                35 commits          ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+🌃 Evening                44 commits          █████████░░░░░░░░░░░░░░░░   37.29 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Thursday                 51 commits          ███████████░░░░░░░░░░░░░░   43.22 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Saturday                 31 commits          ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
+Python                   5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Markdown                 3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+C++                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Vue                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -37,7 +69,7 @@ Vue                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 04:09:44 UTC
+ Last Updated on 16/05/2026 03:52:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
