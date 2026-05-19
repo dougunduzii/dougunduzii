@@ -7,7 +7,7 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-🌆 Daytime                37 commits          ████████░░░░░░░░░░░░░░░░░   30.83 % 
-🌃 Evening                44 commits          █████████░░░░░░░░░░░░░░░░   36.67 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌞 Morning                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌆 Daytime                38 commits          ████████░░░░░░░░░░░░░░░░░   31.40 % 
+🌃 Evening                44 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Thursday                 51 commits          ███████████░░░░░░░░░░░░░░   42.50 % 
-Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Saturday                 31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Monday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Tuesday                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 51 commits          ███████████░░░░░░░░░░░░░░   42.15 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
 
 
@@ -48,11 +48,11 @@ Sunday                   6 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 44 mins       █████████████░░░░░░░░░░░░   50.74 % 
-Markdown                 5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-C++                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Vue                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other                    10 hrs 22 mins      █████████████░░░░░░░░░░░░   53.28 % 
+Markdown                 4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+C++                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +69,7 @@ Vue                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 04:22:25 UTC
+ Last Updated on 19/05/2026 04:18:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
