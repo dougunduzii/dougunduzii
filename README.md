@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-🌆 Daytime                49 commits          █████████░░░░░░░░░░░░░░░░   36.84 % 
-🌃 Evening                44 commits          ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+🌞 Morning                29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+🌆 Daytime                50 commits          █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌃 Evening                44 commits          ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Thursday                 53 commits          ██████████░░░░░░░░░░░░░░░   39.85 % 
-Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Thursday                 53 commits          ██████████░░░░░░░░░░░░░░░   39.55 % 
+Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Saturday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 
 
@@ -48,11 +48,11 @@ Sunday                   8 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 4 mins       ██████████████████░░░░░░░   74.00 % 
-Markdown                 4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Other                    19 hrs              ███████████████████░░░░░░   74.08 % 
+Markdown                 4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +70,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 04:43:39 UTC
+ Last Updated on 01/06/2026 05:05:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
