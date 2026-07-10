@@ -7,7 +7,7 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,6 +23,38 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                35 commits          █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌆 Daytime                88 commits          ████████████░░░░░░░░░░░░░   48.62 % 
+🌃 Evening                46 commits          ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Tuesday                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Thursday                 59 commits          ████████░░░░░░░░░░░░░░░░░   32.60 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Markdown                 5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Python                   4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+HTML                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -38,7 +70,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 04:03:30 UTC
+ Last Updated on 10/07/2026 04:03:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
