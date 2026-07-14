@@ -7,8 +7,6 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%205%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -23,38 +21,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-🌆 Daytime                88 commits          ████████████░░░░░░░░░░░░░   47.83 % 
-🌃 Evening                46 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Tuesday                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Thursday                 59 commits          ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Saturday                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Python                   4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Markdown                 4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -70,7 +36,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 03:43:57 UTC
+ Last Updated on 14/07/2026 03:19:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
