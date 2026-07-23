@@ -78,20 +78,12 @@ HTML                     1 repo              ████░░░░░░░�
 ![snake](https://raw.githubusercontent.com/dougunduzii/dougunduzii/output/github-contribution-grid-snake.svg)
 
 ## 👽Who I am
-NJUPTer level 2025
-## 🛠️What I can
-<ul>
-  <li>JavaSE</li>
-  <li>Python(pygame,pynput)</li>
-  <li>C/C++(a little)</li>
-  <li>HTML,CSS</li>
-  <li>JavaScript/TypeScript</li>
-</ul>
 
-## 🐾What I am trying
-<ul>
-  <li>算法 for 蓝桥杯</li>
-</ul>
+NJUPTer level 2025,代码爱好者
+
+![Skills](https://skillicons.dougunduzi.top/icons?i=py,js,ts,html,css,vue,fastapi,mysql,java,c,cpp,md)
+![Tools](https://skillicons.dougunduzi.top/icons?i=pycharm,idea,webstorm,vscode,git)
+
 
 ## 🥰Contact me
 <ul>
