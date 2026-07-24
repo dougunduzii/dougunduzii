@@ -7,15 +7,13 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%206%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2026
+> 🏆 147 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,38 +21,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                48 commits          ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-🌆 Daytime                91 commits          ███████████░░░░░░░░░░░░░░   42.33 % 
-🌃 Evening                57 commits          ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Thursday                 64 commits          ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Saturday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   11 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   36.80 % 
-Vue                      8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Other                    4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Markdown                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-```
-
 **I Mostly Code in Vue** 
 
 ```text
@@ -70,7 +36,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 03:37:08 UTC
+ Last Updated on 24/07/2026 03:32:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
