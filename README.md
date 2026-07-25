@@ -13,20 +13,20 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 147 Contributions in the Year 2026
+> 🏆 152 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I Mostly Code in Vue** 
+**I Mostly Code in Python** 
 
 ```text
-Vue                      3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Vue                      3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -36,7 +36,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:32:28 UTC
+ Last Updated on 25/07/2026 03:30:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
