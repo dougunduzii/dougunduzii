@@ -7,17 +7,13 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2047%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2026
+> 🏆 154 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,61 +21,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                53 commits          ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-🌆 Daytime                93 commits          ██████████░░░░░░░░░░░░░░░   41.15 % 
-🌃 Evening                61 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Tuesday                  28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Thursday                 65 commits          ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Saturday                 43 commits          █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Sunday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.37 % 
-Python                   3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Markdown                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-INI                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 5 mins (37.21%)
-
-✍️ 17,894 lines written by AI, 83 lines written by hand (99.54% AI-written)
-
-🔤 20,230,499 Input Tokens, 208,616 Output Tokens
-
-💵 $63.24 Estimated AI Cost This Week
-
-🧠 26 AI Sessions, 132 AI Prompts
-
-Deepseek                 18,177 lines        █████████████████████████   100.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📄 Detailed Prompter — average 714 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.05% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -95,7 +36,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:23:58 UTC
+ Last Updated on 29/07/2026 03:25:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
