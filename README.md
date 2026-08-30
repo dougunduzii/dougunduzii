@@ -7,7 +7,7 @@
  <details>
    
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2058%20mins-blue?style=flat)
 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                86 commits          ████████░░░░░░░░░░░░░░░░░   32.09 % 
-🌆 Daytime                97 commits          █████████░░░░░░░░░░░░░░░░   36.19 % 
-🌃 Evening                64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+🌞 Morning                86 commits          ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌆 Daytime                98 commits          █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌃 Evening                64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 71 commits          ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Thursday                 71 commits          ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Sunday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
 
 
@@ -50,33 +50,33 @@ Sunday                   25 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.31 % 
-Jupyter                  2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-textmate                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Markdown                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Python                   2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Jupyter                  2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Markdown                 1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Other                    59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (12.8%)
+⏱ AI Coding Time: 25 mins (5.92%)
 
-✍️ 8 lines written by AI, 4,241 lines written by hand (0.19% AI-written)
+✍️ 0 lines written by AI, 3,821 lines written by hand (0.0% AI-written)
 
-🔤 264,206 Input Tokens, 33,413 Output Tokens
+🔤 50,372 Input Tokens, 4,213 Output Tokens
 
 💵 $1.34 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 22 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.19% of written lines came from AI
-📝 Concise Prompter — average 97 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 7 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 06:53:26 UTC
+ Last Updated on 30/08/2026 05:07:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
