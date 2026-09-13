@@ -25,62 +25,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                86 commits          ████████░░░░░░░░░░░░░░░░░   30.50 % 
-🌆 Daytime                111 commits         ██████████░░░░░░░░░░░░░░░   39.36 % 
-🌃 Evening                64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Wednesday                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Thursday                 73 commits          ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.76 % 
-Markdown                 4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-Other                    3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-TOML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 21 mins (52.23%)
-
-✍️ 999 lines written by AI, 333 lines written by hand (75.0% AI-written)
-
-🔤 6,073,688 Input Tokens, 378,232 Output Tokens
-
-💵 $133.70 Estimated AI Cost This Week
-
-🧠 33 AI Sessions, 99 AI Prompts
-
-GPT                      1,003 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 75.0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.97% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -96,7 +40,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 04:19:54 UTC
+ Last Updated on 13/09/2026 04:32:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
