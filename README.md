@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                86 commits          ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌆 Daytime                145 commits         ███████████░░░░░░░░░░░░░░   45.89 % 
-🌃 Evening                64 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+🌞 Morning                86 commits          ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+🌆 Daytime                146 commits         ████████████░░░░░░░░░░░░░   46.06 % 
+🌃 Evening                64 commits          █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 78 commits          ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 54 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Sunday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 78 commits          ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Saturday                 55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Sunday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 
 
@@ -50,35 +50,35 @@ Sunday                   32 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.94 % 
-Markdown                 3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-TypeScript               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Java                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Python                   5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
+Markdown                 3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+TypeScript               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+JavaScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Java                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 54 mins (66.9%)
+⏱ AI Coding Time: 11 hrs 50 mins (67.9%)
 
-✍️ 61,761 lines written by AI, 5,375 lines written by hand (91.99% AI-written)
+✍️ 61,761 lines written by AI, 1,322 lines written by hand (97.9% AI-written)
 
-🔤 129,509 Input Tokens, 93,272 Output Tokens
+🔤 85,351 Input Tokens, 92,836 Output Tokens
 
 💵 $13.08 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Deepseek                 63,466 lines        ██████████████████░░░░░░░   73.07 % 
 DeepSeek                 23,393 lines        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.99% of written lines came from AI
-📝 Concise Prompter — average 13 characters per prompt
+🤖 AI-Driven — 97.9% of written lines came from AI
+📝 Concise Prompter — average 10 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 8.37% of changed lines were hand-edited
+🚀 High AI Trust — 2.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,7 +96,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dougunduzii/dougunduzii/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 04:16:22 UTC
+ Last Updated on 17/10/2026 04:06:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
